@@ -6,7 +6,7 @@
 
 <a href='https://zhuang2002.github.io/ColorFlow/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;
 <a href='https://huggingface.co/spaces/TencentARC/ColorFlow'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue'></a> &nbsp;
-<a href="https://arxiv.org/abs/2412.11815"><img src="https://img.shields.io/static/v1?label=Arxiv Preprint&message=ColorFlow&color=red&logo=arxiv"></a> &nbsp;
+<a href="https://arxiv.org/abs/2412.11815"><img src="https://img.shields.io/badge/arXiv-2412.11815-b31b1b.svg"></a> &nbsp;
 <a href="https://huggingface.co/TencentARC/ColorFlow"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue"></a>
 
 **Your star means a lot for us to develop this project!** :star:
@@ -57,7 +57,7 @@ Follow these steps to set up and run ColorFlow on your local machine:
 
 - **Run the Application**
 
-  You can launch the Gradio interface for PowerPaint by running the following command:
+  You can launch the Gradio interface for ColorFlow by running the following command:
   ```bash
   python app.py
   ```
